@@ -1,0 +1,3 @@
+FROM postgres
+ENV POSTGRES_PASSWORD='senha1324'
+ENV POSTGRES_DB='entrega5'
